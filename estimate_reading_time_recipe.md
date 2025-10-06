@@ -50,7 +50,7 @@ estimate_reading_time("Hello world... up to 200 words") => 60
 Given at least a single word 
 It returns at least 1 
 """
-extract_uppercase("hello!") => 1
+estimate_reading_time("hello!") => 1
 
 """
 Given a None value
